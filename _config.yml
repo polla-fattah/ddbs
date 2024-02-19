@@ -20,10 +20,9 @@ text_skin: ocean # "default" (default), "dark", "forest", "ocean", "chocolate", 
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Database Concepts using PostgreSQL
+title   : Distributed Database Systems
 description: > # this means to ignore newlines until "Language & timezone"
-  PostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance.
-
+  Distributed Database Systems is a course that covers the principles of distributed database systems, including distributed database design, distributed database management, distributed database security, and distributed database recovery. The course also covers the principles of distributed database systems, including distributed database design, distributed database management, distributed database security, and distributed database recovery.
 
 ## => Language and Timezone
 ##############################
@@ -55,7 +54,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: polla-fattah/postgresql
+repository: polla-fattah/ddbs
 repository_tree: main
 
 
