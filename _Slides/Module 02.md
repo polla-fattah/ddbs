@@ -1,10 +1,20 @@
 ---
 title: Module 02
-subtitle: DDBS Architectures
-permalink: /chapters/module02/
-theme: uncover
+
 marp: true
 ---
+
+```mermaid
+graph TD
+    A --> B
+    A --> C
+    B --> D
+    C --> E
+```
+
+
+---
+
 ## DDBS Architectures
 
 ### Elements to Study Today
